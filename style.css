@@ -1,0 +1,25 @@
+
+.contenedor{
+    display: flex;
+    margin: auto;
+    width: 100%;
+}
+.izquierda{
+    width: 50%;
+    background-color: indianred;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+img.pequeña{
+        width: 400px; height: 400px;
+        border-color: black;
+    }
+.derecha{
+    width: 150%;
+    background-color: beige;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    size: 20px;
+}
